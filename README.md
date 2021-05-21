@@ -16,7 +16,7 @@ Hence, the final results achieved from this election audit analysis has to be sa
 
 ## Resources
 
-The results are achieved with the use of following software:
+The results are achieved with the use of the following software:
 
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.55.2
