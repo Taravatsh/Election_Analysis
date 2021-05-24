@@ -66,7 +66,7 @@ For achieving the election-audit results, Visual Studio Code which is also refer
         Winning Vote Count: 272,892
         Winning Percentage: 73.8%
 
-Hence, all of the election-audit results for both the candidates and counties were then written and saved to a text file as shown respectively in the scripts below:
+Hence, the election-audit results for both the candidates and counties were then written and saved to a text file as shown respectively in the scripts below:
 
     # Save the results to our text file.
     with open(file_to_save, "w") as txt_file:
